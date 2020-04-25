@@ -1,1 +1,4 @@
 ###来自于官网
+###图片保存成TFrecord的两种方式：1。读取图片形成数据集2。保存数据集3。生成文件4
+import tensorflow as tf 
+tf.io.read
